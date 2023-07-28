@@ -2,6 +2,9 @@
 
 ## tip
 
+
+...
+
 ### Breaking changes
 
 - **[vmalert](https://docs.victoriametrics.com/operator/api.html#vmalert): Field `OAuth2` in (HTTPAuth)[https://docs.victoriametrics.com/operator/api.html#httpauth] was renamed to `oauth2`. See [this issue](https://github.com/VictoriaMetrics/operator/issues/522) and [this PR](https://github.com/VictoriaMetrics/operator/pull/689) for details.**
