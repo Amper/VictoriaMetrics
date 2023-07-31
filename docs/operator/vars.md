@@ -3,14 +3,14 @@ sort: 14
 weight: 14
 title: Variables
 menu:
-docs:
-parent: "operator"
-weight: 14
+  docs:
+    parent: "operator"
+    weight: 14
 aliases:
 - /operator/vars.html
 ---
 # Auto Generated vars for package config 
- updated at Fri Jul 28 12:11:19 UTC 2023 
+ updated at Mon Jul 31 14:46:08 UTC 2023 
 
 
 | varible name | variable default value | variable required | variable description |
